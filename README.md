@@ -1,16 +1,45 @@
 # Dkoder Frontend Recreation — High-Fidelity Reverse Engineering
 
-> **Frontend Design Contest Submission**  
-> **Reference Target:** [https://dkoder.co.in/](https://dkoder.co.in/)  
-> **Recreation Fidelity:** 100% Production-Accurate Frontend Architecture, Visual Identity, CSS Tokens, Interactive States & Data Flow.
+<p align="center">
+  <img src="./public/dkoder-mark.png" alt="Dkoder Logo" width="72" height="72" />
+  <h2 align="center">Dkoder: The Placement LMS for Engineering Colleges</h2>
+  <p align="center">
+    <strong>Frontend Design Contest Submission</strong> · 100% Pixel-Perfect Production Recreation
+  </p>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Reference-dkoder.co.in-FFCA29?style=for-the-badge&logoColor=17181A" alt="Reference Target" />
+  <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 18" />
+  <img src="https://img.shields.io/badge/Vite-5.4.21-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 5" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.4.18-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-11.18.2-FF0055?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Status-100%25_Verified-10B981?style=for-the-badge" alt="Verified Status" />
+</p>
+
+---
+
+## Visual Previews
+
+### Desktop Experience (1440 × 900)
+*Featuring 3D Student Group, Dkoder Mascot, Live Rotating Dialogue Bubbles, and Neo-Brutalist Sticky Navigation:*
+<p align="center">
+  <img src="./desktop_verified_1440.png" alt="Dkoder Desktop View" width="100%" style="border-radius: 12px; border: 2px solid #17181A; box-shadow: 6px 6px 0px #401E87;" />
+</p>
+
+### Responsive Mobile Experience (390 × 844)
+*Fluid layout adaptation with responsive dialogue cards, touch-optimized hamburger drawer, and accessible controls:*
+<p align="center">
+  <img src="./mobile_verified_390.png" alt="Dkoder Mobile View" width="360" style="border-radius: 16px; border: 2px solid #17181A; box-shadow: 6px 6px 0px #401E87;" />
+</p>
 
 ---
 
 ## 1. Project Overview
 
-This project is an exceptionally high-fidelity recreation of the production frontend of **Dkoder** (`https://dkoder.co.in/`), India's premier Placement LMS for engineering colleges. Rather than generating a generic template or redesign, this codebase is the result of systematic reverse engineering of Dkoder's live production bundle (`index-bundle.js`, `tokens-DABAXPQ2.js`, `LandingNavbar-C7Z5fSaq.js`, `PlansSection.css`, etc.) and real REST API endpoints (`/api/landing/practice-filter`, `/api/landing/career-tracks`, `/api/gamification/leaderboard`).
+This project is an exceptionally high-fidelity recreation of the production frontend of **Dkoder** (`https://dkoder.co.in/`), India's premier Placement LMS for engineering colleges. Rather than creating a generic template or arbitrary redesign, this codebase is the result of systematic reverse engineering of Dkoder's live production bundle (`index-bundle.js`, `tokens-DABAXPQ2.js`, `LandingNavbar-C7Z5fSaq.js`, `PlansSection.css`, etc.) and real REST API endpoints (`/api/landing/practice-filter`, `/api/landing/career-tracks`, `/api/gamification/leaderboard`).
 
-### Visual Identity & Aesthetic
+### Visual Identity & Aesthetic System
 - **Design Philosophy:** Neo-brutalism with warm, approachable micro-interactions.
 - **Surface Elevation:** Crisp 2px solid dark borders (`#17181A` / `#1A1A1A`) paired with hard geometric drop-shadows (`box-shadow: 4px 4px 0 #401E87`, `8px 9px 0 #401E87`, `3px 3px 0 #FCC419`).
 - **Brand Palette:** Warm cream surfaces (`#FFFDF8`, `#FFFAF0`), vivid school-bus yellow accents (`#FCC419`, `#FFCA29`, `#FCC827`), and deep royal purple accents (`#4E25A5`, `#401E87`, `#1E0D47`).
@@ -72,7 +101,7 @@ The landing page features all 14 official sections and interactive workbenches f
      - **Silver** (₹499 / 90 Days · ~₹5.5/day)
      - **Gold** (₹899 / 180 Days · ~₹5.0/day) — *Most Popular*
      - **Platinum** (₹1,499 / 365 Days · ~₹4.1/day)
-     - **Super Dream Pack** (₹2,499 / 730 Days · ~₹3.4/day) — *2 Years Access*
+     - **Super Dream Pack** (₹2,499 / 730 Days · ~₹3.4/day · 2 Years Access)
    - Target market badges (e.g. *Service Companies 3-5 LPA*, *Tier-1 Product Roles 10-25 LPA*).
    - Per-day cost callout badges and comprehensive feature matrices.
 
@@ -165,7 +194,7 @@ The application has been verified across all target viewports:
 | **Tablet** | 768 × 1024 px | Verified (Pass) | Single-column workbenches, mobile hamburger drawer, touch-friendly tab pills |
 | **Mobile** | 390 × 844 px | Verified (Pass) | Stacked dialogue cards, full-width button actions, collapsible drawer menu |
 
-Verified screenshots are saved in the project root:
+Verified screenshots saved in the repository:
 - `desktop_verified_1440.png`
 - `mobile_verified_390.png`
 - `laptop_1280x800.png`
@@ -182,7 +211,7 @@ Verified screenshots are saved in the project root:
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Immanuelj15/dkoder.git
 cd dkoder
 
 # Install dependencies
