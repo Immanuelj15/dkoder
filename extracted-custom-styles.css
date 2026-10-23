@@ -1,0 +1,21 @@
+/* === HERO DIALOGUE STYLES === */
+/* === INTERVIEW WORRIES (OT) STYLES === */
+/* === CAREER TRACKS (CT) STYLES === */
+/* === PLANS (PL) STYLES === */
+.place-items-center{place-items:center}
+.pl-1{padding-left:.25rem}
+.pl-1\.5{padding-left:.375rem}
+.pl-10{padding-left:2.5rem}
+.pl-11{padding-left:2.75rem}
+.pl-12{padding-left:3rem}
+.pl-2\.5{padding-left:.625rem}
+.pl-4{padding-left:1rem}
+.pl-9{padding-left:2.25rem}
+.pl-\[60px\]{padding-left:60px}
+.placeholder-\[var\(--text-muted\)\]::placeholder{color:var(--text-muted)}
+.placeholder\:text-\[\#8a8274\]::placeholder{--tw-text-opacity:1;color:rgb(138 130 116/var(--tw-text-opacity,1))}
+.placeholder\:text-\[\#94A3B8\]::placeholder{--tw-text-opacity:1;color:rgb(148 163 184/var(--tw-text-opacity,1))}
+.placeholder\:text-\[\#9a917f\]::placeholder{--tw-text-opacity:1;color:rgb(154 145 127/var(--tw-text-opacity,1))}
+.placeholder\:text-slate-300::placeholder{--tw-text-opacity:1;color:rgb(203 213 225/var(--tw-text-opacity,1))}
+.placeholder\:text-slate-400::placeholder{--tw-text-opacity:1;color:rgb(148 163 184/var(--tw-text-opacity,1))}
+/* === COMPANY LOGO (CLB) STYLES === */

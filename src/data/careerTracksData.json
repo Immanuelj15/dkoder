@@ -1,0 +1,644 @@
+{
+  "tracks": [
+    {
+      "key": "core-systems",
+      "label": "Chip & systems engineer",
+      "blurb": "C fundamentals, memory, bit-level reasoning — tested harder here than anywhere else.",
+      "companyCount": 6,
+      "companies": [
+        {
+          "name": "Intel",
+          "lpaMin": 15,
+          "lpaMax": 15,
+          "questions": 100
+        },
+        {
+          "name": "Cisco",
+          "lpaMin": 16,
+          "lpaMax": 16,
+          "questions": 96
+        },
+        {
+          "name": "Qualcomm",
+          "lpaMin": 16,
+          "lpaMax": 22,
+          "questions": 62
+        },
+        {
+          "name": "NVIDIA",
+          "lpaMin": 26,
+          "lpaMax": 26,
+          "questions": 45
+        },
+        {
+          "name": "Samsung R&D",
+          "lpaMin": 12,
+          "lpaMax": 12,
+          "questions": 43
+        },
+        {
+          "name": "Texas Instruments",
+          "lpaMin": 16,
+          "lpaMax": 16,
+          "questions": 38
+        }
+      ],
+      "companyNames": [
+        "Intel",
+        "Cisco",
+        "Qualcomm",
+        "NVIDIA",
+        "Samsung R&D",
+        "Texas Instruments"
+      ],
+      "lpa": {
+        "min": 12,
+        "max": 26
+      },
+      "questions": {
+        "mcq": 116,
+        "coding": 170,
+        "platform": 0,
+        "total": 286
+      },
+      "difficulty": {
+        "EASY": 134,
+        "MEDIUM": 116,
+        "HARD": 36
+      },
+      "topics": [
+        {
+          "label": "C programming",
+          "count": 170
+        },
+        {
+          "label": "Compilation phases",
+          "count": 3
+        },
+        {
+          "label": "Data type sizes",
+          "count": 2
+        },
+        {
+          "label": "Anagram check complexity",
+          "count": 2
+        },
+        {
+          "label": "Data type ranges",
+          "count": 1
+        }
+      ],
+      "languages": [
+        {
+          "label": "C",
+          "count": 286
+        }
+      ],
+      "bundles": []
+    },
+    {
+      "key": "service-developer",
+      "label": "Service-company developer",
+      "blurb": "High-volume drives. Aptitude speed and clean basics decide the shortlist.",
+      "companyCount": 24,
+      "companies": [
+        {
+          "name": "IBM Associate System Engineer",
+          "lpaMin": 4.5,
+          "lpaMax": 6,
+          "questions": 445
+        },
+        {
+          "name": "Accenture Associate Software Engineer",
+          "lpaMin": 4.5,
+          "lpaMax": 6.5,
+          "questions": 406
+        },
+        {
+          "name": "TCS NQT Digital",
+          "lpaMin": 7,
+          "lpaMax": 7.3,
+          "questions": 347
+        },
+        {
+          "name": "Infosys DSE Trainee",
+          "lpaMin": 6.25,
+          "lpaMax": 6.25,
+          "questions": 343
+        },
+        {
+          "name": "Cognizant GenC Next",
+          "lpaMin": 6.5,
+          "lpaMax": 7.5,
+          "questions": 336
+        },
+        {
+          "name": "Hexaware",
+          "lpaMin": 3.5,
+          "lpaMax": 6,
+          "questions": 260
+        }
+      ],
+      "companyNames": [
+        "IBM Associate System Engineer",
+        "Accenture Associate Software Engineer",
+        "TCS NQT Digital",
+        "Infosys DSE Trainee",
+        "Cognizant GenC Next",
+        "Hexaware",
+        "TCS Digital",
+        "Infosys DSE",
+        "Wipro Turbo",
+        "Capgemini Premier",
+        "Mindtree",
+        "Accenture AD",
+        "Persistent Systems",
+        "Tech Mahindra",
+        "HCLTech",
+        "TCS",
+        "Cognizant",
+        "Wipro",
+        "Accenture ASE",
+        "Infosys",
+        "Accenture",
+        "TCS NQT",
+        "Capgemini",
+        "Wipro WILP"
+      ],
+      "lpa": {
+        "min": 2.5,
+        "max": 7.5
+      },
+      "questions": {
+        "mcq": 1527,
+        "coding": 299,
+        "platform": 43,
+        "total": 1869
+      },
+      "difficulty": {
+        "EASY": 781,
+        "MEDIUM": 771,
+        "HARD": 317
+      },
+      "topics": [
+        {
+          "label": "C programming",
+          "count": 299
+        },
+        {
+          "label": "While Loop",
+          "count": 110
+        },
+        {
+          "label": "Nested Structures",
+          "count": 99
+        },
+        {
+          "label": "Verbal",
+          "count": 79
+        },
+        {
+          "label": "For Loop",
+          "count": 69
+        }
+      ],
+      "languages": [
+        {
+          "label": "C",
+          "count": 1574
+        },
+        {
+          "label": "Java",
+          "count": 12
+        },
+        {
+          "label": "Python",
+          "count": 8
+        }
+      ],
+      "bundles": [
+        {
+          "slug": "infosys",
+          "name": "Infosys Complete Prep",
+          "description": "DSE · Aptitude · MCQ",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 473
+        },
+        {
+          "slug": "accenture",
+          "name": "Accenture Complete Prep",
+          "description": "Associate SW engineer",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 446
+        },
+        {
+          "slug": "tcs",
+          "name": "TCS Complete Prep",
+          "description": "NQT · Aptitude · MCQ",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 313
+        }
+      ]
+    },
+    {
+      "key": "specialist-track",
+      "label": "Digital & specialist roles",
+      "blurb": "Same employers, a harder coding bar, a bigger package — Digital, Specialist Programmer, Elite.",
+      "companyCount": 12,
+      "companies": [
+        {
+          "name": "Infosys Specialist Programmer L1",
+          "lpaMin": 10,
+          "lpaMax": 10,
+          "questions": 359
+        },
+        {
+          "name": "Infosys Specialist Programmer L2",
+          "lpaMin": 16,
+          "lpaMax": 16,
+          "questions": 338
+        },
+        {
+          "name": "TCS NQT Prime",
+          "lpaMin": 9,
+          "lpaMax": 12.26,
+          "questions": 304
+        },
+        {
+          "name": "Infosys Specialist Programmer L3",
+          "lpaMin": 21,
+          "lpaMax": 21,
+          "questions": 279
+        },
+        {
+          "name": "HCLTech Elite",
+          "lpaMin": 12,
+          "lpaMax": 12,
+          "questions": 69
+        },
+        {
+          "name": "Deloitte USI",
+          "lpaMin": 8.5,
+          "lpaMax": 8.5,
+          "questions": 49
+        }
+      ],
+      "companyNames": [
+        "Infosys Specialist Programmer L1",
+        "Infosys Specialist Programmer L2",
+        "TCS NQT Prime",
+        "Infosys Specialist Programmer L3",
+        "HCLTech Elite",
+        "Deloitte USI",
+        "PwC AC",
+        "Cognizant GenC Pro",
+        "Infosys SP",
+        "Capgemini Exceller",
+        "TCS Prime",
+        "Infosys PP"
+      ],
+      "lpa": {
+        "min": 7.5,
+        "max": 21
+      },
+      "questions": {
+        "mcq": 560,
+        "coding": 115,
+        "platform": 6,
+        "total": 681
+      },
+      "difficulty": {
+        "EASY": 209,
+        "MEDIUM": 305,
+        "HARD": 167
+      },
+      "topics": [
+        {
+          "label": "C programming",
+          "count": 115
+        },
+        {
+          "label": "For Loop",
+          "count": 69
+        },
+        {
+          "label": "Static Variables",
+          "count": 51
+        },
+        {
+          "label": "Increment/Decrement Operators",
+          "count": 42
+        },
+        {
+          "label": "Strlen Function",
+          "count": 42
+        }
+      ],
+      "languages": [
+        {
+          "label": "C",
+          "count": 675
+        },
+        {
+          "label": "Java",
+          "count": 3
+        },
+        {
+          "label": "SQL",
+          "count": 1
+        }
+      ],
+      "bundles": [
+        {
+          "slug": "infosys",
+          "name": "Infosys Complete Prep",
+          "description": "DSE · Aptitude · MCQ",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 473
+        },
+        {
+          "slug": "tcs",
+          "name": "TCS Complete Prep",
+          "description": "NQT · Aptitude · MCQ",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 313
+        }
+      ]
+    },
+    {
+      "key": "product-sde",
+      "label": "Product-company SDE",
+      "blurb": "Data structures, debugging, code you'd defend in a review — that's the bar.",
+      "companyCount": 9,
+      "companies": [
+        {
+          "name": "Oracle",
+          "lpaMin": 15,
+          "lpaMax": 15,
+          "questions": 111
+        },
+        {
+          "name": "Zoho",
+          "lpaMin": 8.5,
+          "lpaMax": 8.5,
+          "questions": 87
+        },
+        {
+          "name": "Freshworks",
+          "lpaMin": 12,
+          "lpaMax": 12,
+          "questions": 69
+        },
+        {
+          "name": "SAP Labs",
+          "lpaMin": 12,
+          "lpaMax": 12,
+          "questions": 66
+        },
+        {
+          "name": "Amazon",
+          "lpaMin": 18,
+          "lpaMax": 18,
+          "questions": 16
+        },
+        {
+          "name": "JP Morgan",
+          "lpaMin": 16,
+          "lpaMax": 16,
+          "questions": 1
+        }
+      ],
+      "companyNames": [
+        "Oracle",
+        "Zoho",
+        "Freshworks",
+        "SAP Labs",
+        "Amazon",
+        "JP Morgan",
+        "Visa",
+        "PayPal",
+        "Mastercard"
+      ],
+      "lpa": {
+        "min": 8.5,
+        "max": 18
+      },
+      "questions": {
+        "mcq": 147,
+        "coding": 141,
+        "platform": 30,
+        "total": 318
+      },
+      "difficulty": {
+        "EASY": 133,
+        "MEDIUM": 154,
+        "HARD": 31
+      },
+      "topics": [
+        {
+          "label": "C programming",
+          "count": 141
+        },
+        {
+          "label": "Standard streams",
+          "count": 2
+        },
+        {
+          "label": "Sorted Matrix Search",
+          "count": 2
+        },
+        {
+          "label": "Format specifiers",
+          "count": 1
+        },
+        {
+          "label": "Keywords vs identifiers",
+          "count": 1
+        }
+      ],
+      "languages": [
+        {
+          "label": "C",
+          "count": 288
+        },
+        {
+          "label": "C++",
+          "count": 12
+        },
+        {
+          "label": "Java",
+          "count": 8
+        }
+      ],
+      "bundles": [
+        {
+          "slug": "amazon",
+          "name": "Amazon Complete Prep",
+          "description": "SDE OA · DSA · Systems",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 387
+        }
+      ]
+    },
+    {
+      "key": "big-tech",
+      "label": "Big Tech SDE",
+      "blurb": "₹20 LPA+ territory. DSA depth, fewer questions, a tighter clock.",
+      "companyCount": 25,
+      "companies": [
+        {
+          "name": "Microsoft SDE Fresher",
+          "lpaMin": 15,
+          "lpaMax": 25,
+          "questions": 482
+        },
+        {
+          "name": "Amazon SDE-1",
+          "lpaMin": 18,
+          "lpaMax": 30,
+          "questions": 409
+        },
+        {
+          "name": "Adobe India SDE-1",
+          "lpaMin": 16,
+          "lpaMax": 26,
+          "questions": 393
+        },
+        {
+          "name": "Intuit India SDE-1",
+          "lpaMin": 17,
+          "lpaMax": 28,
+          "questions": 340
+        },
+        {
+          "name": "Stripe India SDE-1",
+          "lpaMin": 20,
+          "lpaMax": 35,
+          "questions": 329
+        },
+        {
+          "name": "Flipkart/Razorpay/Swiggy/CRED SDE-1",
+          "lpaMin": 8,
+          "lpaMax": 25,
+          "questions": 320
+        }
+      ],
+      "companyNames": [
+        "Microsoft SDE Fresher",
+        "Amazon SDE-1",
+        "Adobe India SDE-1",
+        "Intuit India SDE-1",
+        "Stripe India SDE-1",
+        "Flipkart/Razorpay/Swiggy/CRED SDE-1",
+        "Atlassian India SDE-1",
+        "Netflix India SDE-1",
+        "LinkedIn India SDE-1",
+        "Salesforce India SDE-1",
+        "Uber India SDE-1",
+        "Microsoft IDC",
+        "Amazon SDE-I",
+        "Adobe MTS",
+        "Google STEP",
+        "Flipkart",
+        "Microsoft",
+        "Google",
+        "Adobe",
+        "Uber",
+        "Meta",
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Walmart Global Tech",
+        "Salesforce"
+      ],
+      "lpa": {
+        "min": 8,
+        "max": 44
+      },
+      "questions": {
+        "mcq": 1189,
+        "coding": 215,
+        "platform": 35,
+        "total": 1439
+      },
+      "difficulty": {
+        "EASY": 319,
+        "MEDIUM": 829,
+        "HARD": 291
+      },
+      "topics": [
+        {
+          "label": "C programming",
+          "count": 215
+        },
+        {
+          "label": "While Loop",
+          "count": 110
+        },
+        {
+          "label": "Nested Structures",
+          "count": 99
+        },
+        {
+          "label": "For Loop",
+          "count": 69
+        },
+        {
+          "label": "Array Fundamentals",
+          "count": 68
+        }
+      ],
+      "languages": [
+        {
+          "label": "C",
+          "count": 1404
+        },
+        {
+          "label": "C++",
+          "count": 16
+        },
+        {
+          "label": "Java",
+          "count": 10
+        }
+      ],
+      "bundles": [
+        {
+          "slug": "amazon",
+          "name": "Amazon Complete Prep",
+          "description": "SDE OA · DSA · Systems",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 387
+        },
+        {
+          "slug": "microsoft",
+          "name": "Microsoft Complete Prep",
+          "description": "SDE OA · DSA · Aptitude",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 357
+        },
+        {
+          "slug": "adobe",
+          "name": "Adobe Complete Prep",
+          "description": "SDE OA · DSA · Aptitude",
+          "displayPrice": "₹199",
+          "type": "mcq",
+          "count": 249
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "companies": 44,
+    "questions": 3254,
+    "bundles": 12
+  },
+  "generatedAt": "2026-10-23T07:13:51.922Z"
+}

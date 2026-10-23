@@ -1,0 +1,452 @@
+{
+  "library": {
+    "total": 3254,
+    "mcq": 2328,
+    "coding": 860,
+    "platform": 66,
+    "companies": 44
+  },
+  "options": {
+    "company": [
+      {
+        "value": "TCS",
+        "label": "TCS",
+        "count": 640
+      },
+      {
+        "value": "Microsoft",
+        "label": "Microsoft",
+        "count": 634
+      },
+      {
+        "value": "Infosys",
+        "label": "Infosys",
+        "count": 624
+      },
+      {
+        "value": "Amazon",
+        "label": "Amazon",
+        "count": 562
+      },
+      {
+        "value": "Adobe",
+        "label": "Adobe",
+        "count": 530
+      },
+      {
+        "value": "Accenture",
+        "label": "Accenture",
+        "count": 498
+      },
+      {
+        "value": "IBM Associate System Engineer",
+        "label": "IBM Associate System Engineer",
+        "count": 445
+      },
+      {
+        "value": "Cognizant",
+        "label": "Cognizant",
+        "count": 378
+      },
+      {
+        "value": "Intuit India SDE-1",
+        "label": "Intuit India SDE-1",
+        "count": 340
+      },
+      {
+        "value": "Flipkart",
+        "label": "Flipkart",
+        "count": 336
+      },
+      {
+        "value": "Stripe India SDE-1",
+        "label": "Stripe India SDE-1",
+        "count": 329
+      },
+      {
+        "value": "Hexaware",
+        "label": "Hexaware",
+        "count": 260
+      },
+      {
+        "value": "Atlassian India SDE-1",
+        "label": "Atlassian India SDE-1",
+        "count": 257
+      },
+      {
+        "value": "Netflix India SDE-1",
+        "label": "Netflix India SDE-1",
+        "count": 257
+      },
+      {
+        "value": "LinkedIn India SDE-1",
+        "label": "LinkedIn India SDE-1",
+        "count": 251
+      },
+      {
+        "value": "Salesforce",
+        "label": "Salesforce",
+        "count": 241
+      },
+      {
+        "value": "Uber",
+        "label": "Uber",
+        "count": 220
+      },
+      {
+        "value": "Wipro",
+        "label": "Wipro",
+        "count": 131
+      },
+      {
+        "value": "Google",
+        "label": "Google",
+        "count": 125
+      },
+      {
+        "value": "Capgemini",
+        "label": "Capgemini",
+        "count": 115
+      },
+      {
+        "value": "Oracle",
+        "label": "Oracle",
+        "count": 111
+      },
+      {
+        "value": "Intel",
+        "label": "Intel",
+        "count": 100
+      },
+      {
+        "value": "Cisco",
+        "label": "Cisco",
+        "count": 96
+      },
+      {
+        "value": "Zoho",
+        "label": "Zoho",
+        "count": 87
+      },
+      {
+        "value": "Mindtree",
+        "label": "Mindtree",
+        "count": 84
+      },
+      {
+        "value": "HCLTech",
+        "label": "HCLTech",
+        "count": 78
+      },
+      {
+        "value": "Persistent Systems",
+        "label": "Persistent Systems",
+        "count": 74
+      },
+      {
+        "value": "Freshworks",
+        "label": "Freshworks",
+        "count": 69
+      },
+      {
+        "value": "SAP Labs",
+        "label": "SAP Labs",
+        "count": 66
+      },
+      {
+        "value": "Qualcomm",
+        "label": "Qualcomm",
+        "count": 62
+      },
+      {
+        "value": "Deloitte USI",
+        "label": "Deloitte USI",
+        "count": 49
+      },
+      {
+        "value": "NVIDIA",
+        "label": "NVIDIA",
+        "count": 45
+      },
+      {
+        "value": "PwC AC",
+        "label": "PwC AC",
+        "count": 43
+      },
+      {
+        "value": "Samsung R&D",
+        "label": "Samsung R&D",
+        "count": 43
+      },
+      {
+        "value": "Texas Instruments",
+        "label": "Texas Instruments",
+        "count": 38
+      },
+      {
+        "value": "Tech Mahindra",
+        "label": "Tech Mahindra",
+        "count": 10
+      },
+      {
+        "value": "Meta",
+        "label": "Meta",
+        "count": 7
+      },
+      {
+        "value": "Goldman Sachs",
+        "label": "Goldman Sachs",
+        "count": 3
+      },
+      {
+        "value": "Morgan Stanley",
+        "label": "Morgan Stanley",
+        "count": 2
+      },
+      {
+        "value": "JP Morgan",
+        "label": "JP Morgan",
+        "count": 1
+      },
+      {
+        "value": "Mastercard",
+        "label": "Mastercard",
+        "count": 1
+      },
+      {
+        "value": "PayPal",
+        "label": "PayPal",
+        "count": 1
+      },
+      {
+        "value": "Visa",
+        "label": "Visa",
+        "count": 1
+      },
+      {
+        "value": "Walmart Global Tech",
+        "label": "Walmart Global Tech",
+        "count": 1
+      }
+    ],
+    "package": [
+      {
+        "value": "< 3 LPA",
+        "label": "Under ₹3 LPA",
+        "min": null,
+        "max": 2.99,
+        "count": 3
+      },
+      {
+        "value": "3-7 LPA",
+        "label": "₹3–7 LPA",
+        "min": 3,
+        "max": 6.99,
+        "count": 1567
+      },
+      {
+        "value": "7-10 LPA",
+        "label": "₹7–10 LPA",
+        "min": 7,
+        "max": 9.99,
+        "count": 1508
+      },
+      {
+        "value": "10-15 LPA",
+        "label": "₹10–15 LPA",
+        "min": 10,
+        "max": 14.99,
+        "count": 1387
+      },
+      {
+        "value": "15-20 LPA",
+        "label": "₹15–20 LPA",
+        "min": 15,
+        "max": 19.99,
+        "count": 1718
+      },
+      {
+        "value": "20+ LPA",
+        "label": "₹20+ LPA",
+        "min": 20,
+        "max": null,
+        "count": 1760
+      }
+    ],
+    "mode": [
+      {
+        "value": "mcq",
+        "label": "MCQ",
+        "count": 2328
+      },
+      {
+        "value": "coding",
+        "label": "Coding",
+        "count": 860
+      },
+      {
+        "value": "platform",
+        "label": "Platform problems",
+        "count": 66
+      }
+    ],
+    "level": [
+      {
+        "value": "EASY",
+        "label": "Easy",
+        "count": 1293
+      },
+      {
+        "value": "MEDIUM",
+        "label": "Medium",
+        "count": 1440
+      },
+      {
+        "value": "HARD",
+        "label": "Hard",
+        "count": 521
+      }
+    ]
+  },
+  "presets": [
+    {
+      "name": "TCS",
+      "values": {
+        "company": "TCS",
+        "package": "7-10 LPA"
+      }
+    },
+    {
+      "name": "Microsoft",
+      "values": {
+        "company": "Microsoft",
+        "package": "20+ LPA"
+      }
+    },
+    {
+      "name": "Infosys",
+      "values": {
+        "company": "Infosys",
+        "package": "3-7 LPA"
+      }
+    }
+  ],
+  "generatedAt": "2026-10-23T07:13:51.922Z",
+  "applied": {},
+  "facets": {
+    "company": {
+      "TCS": 640,
+      "Microsoft": 634,
+      "Infosys": 624,
+      "Amazon": 562,
+      "Adobe": 530,
+      "Accenture": 498,
+      "IBM Associate System Engineer": 445,
+      "Cognizant": 378,
+      "Intuit India SDE-1": 340,
+      "Flipkart": 336,
+      "Stripe India SDE-1": 329,
+      "Hexaware": 260,
+      "Atlassian India SDE-1": 257,
+      "Netflix India SDE-1": 257,
+      "LinkedIn India SDE-1": 251,
+      "Salesforce": 241,
+      "Uber": 220,
+      "Wipro": 131,
+      "Google": 125,
+      "Capgemini": 115,
+      "Oracle": 111,
+      "Intel": 100,
+      "Cisco": 96,
+      "Zoho": 87,
+      "Mindtree": 84,
+      "HCLTech": 78,
+      "Persistent Systems": 74,
+      "Freshworks": 69,
+      "SAP Labs": 66,
+      "Qualcomm": 62,
+      "Deloitte USI": 49,
+      "NVIDIA": 45,
+      "PwC AC": 43,
+      "Samsung R&D": 43,
+      "Texas Instruments": 38,
+      "Tech Mahindra": 10,
+      "Meta": 7,
+      "Goldman Sachs": 3,
+      "Morgan Stanley": 2,
+      "JP Morgan": 1,
+      "Mastercard": 1,
+      "PayPal": 1,
+      "Visa": 1,
+      "Walmart Global Tech": 1
+    },
+    "package": {
+      "< 3 LPA": 3,
+      "3-7 LPA": 1567,
+      "7-10 LPA": 1508,
+      "10-15 LPA": 1387,
+      "15-20 LPA": 1718,
+      "20+ LPA": 1760
+    },
+    "mode": {
+      "mcq": 2328,
+      "coding": 860,
+      "platform": 66
+    },
+    "level": {
+      "EASY": 1293,
+      "MEDIUM": 1440,
+      "HARD": 521
+    }
+  },
+  "result": {
+    "total": 3254,
+    "steps": [],
+    "kinds": {
+      "mcq": 2328,
+      "coding": 860,
+      "platform": 66
+    },
+    "bestKind": "mcq",
+    "groups": [
+      {
+        "label": "While Loop",
+        "count": 110
+      },
+      {
+        "label": "LeetCode Pattern Problems",
+        "count": 110
+      },
+      {
+        "label": "Nested Structures",
+        "count": 99
+      }
+    ],
+    "samples": [
+      {
+        "kind": "mcq",
+        "topic": "Recursive factorial",
+        "difficulty": "EASY",
+        "company": "Wipro Turbo"
+      },
+      {
+        "kind": "coding",
+        "topic": "I/O & Conditions",
+        "difficulty": "EASY",
+        "company": "Wipro Turbo"
+      },
+      {
+        "kind": "platform",
+        "topic": "Shortest Path",
+        "difficulty": "HARD",
+        "company": "Google"
+      },
+      {
+        "kind": "mcq",
+        "topic": "Logical Operators",
+        "difficulty": "EASY",
+        "company": "Netflix India SDE-1"
+      }
+    ]
+  }
+}
