@@ -173,7 +173,7 @@ export default function LandingNavbar({ onOpenAccessibility }) {
             {/* Get Started Button */}
             <a
               href="#plans"
-              className="whitespace-nowrap rounded-full border-2 border-[#1a1a1a] bg-[#1a1a1a] px-5 xl:px-6 py-2.5 text-[15px] font-semibold text-white no-underline transition-all duration-200 hover:-translate-y-0.5 hover:shadow-[3px_3px_0_0_#fcc419] active:translate-y-0 flex items-center gap-2"
+              className="hidden sm:flex whitespace-nowrap rounded-full border-2 border-[#1a1a1a] bg-[#1a1a1a] px-4 xl:px-6 py-2 xl:py-2.5 text-[14px] xl:text-[15px] font-semibold text-white no-underline transition-all duration-200 hover:-translate-y-0.5 hover:shadow-[3px_3px_0_0_#fcc419] active:translate-y-0 items-center gap-2"
             >
               <span>Get Started</span>
             </a>
